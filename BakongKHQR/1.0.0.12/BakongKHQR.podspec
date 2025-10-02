@@ -17,7 +17,7 @@ TODO: This library provided the standard KHQR. It's developer and maintenance un
 DESC
 
 s.homepage         = 'https://github.com/thinh1341993/BakongKHQR.git'
-s.license          = { :type => 'MIT', :file => 'LICENSE' }
+s.license          = 'MIT'
 s.author           = { 'Sambo' => 'sambo.seth@nbc.gov.kh' }
 s.source           = { :git => 'https://github.com/thinh1341993/BakongKHQR.git', :tag => s.version.to_s }
 

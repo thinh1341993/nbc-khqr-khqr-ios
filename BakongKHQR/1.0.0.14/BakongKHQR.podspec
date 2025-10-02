@@ -19,7 +19,7 @@ DESC
 s.homepage         = 'https://gitlab.nbc.org.kh/khqr/sdk-ios.git'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Sambo' => 'sambo.seth@nbc.gov.kh' }
-s.source           = { :git => 'https://gitlab.nbc.gov.kh/khqr/sdk-ios.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/thinh1341993/BakongKHQR.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '11.0'
 

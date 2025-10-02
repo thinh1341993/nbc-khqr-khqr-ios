@@ -16,10 +16,10 @@ s.description      = <<-DESC
 TODO: This library provided the standard KHQR. It's developer and maintenance under National Bank of Cambodia.
 DESC
 
-s.homepage         = 'https://gitlab.nbc.gov.kh/khqr/sdk-ios.git'
+s.homepage         = 'https://github.com/thinh1341993/BakongKHQR.git'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Sambo' => 'sambo.seth@nbc.gov.kh' }
-s.source           = { :git => 'https://gitlab.nbc.gov.kh/khqr/sdk-ios.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/thinh1341993/BakongKHQR.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '11.0'
 
